@@ -1,0 +1,9 @@
+Question 4: Caluclate the standard deviation of the following dataset that includes the weights of five dogs.
+
+mydata = {'Max':15, 'Buddy':25, 'Matilda':8, 'Paco':12, 'Pablo':30}
+Implement scripts for the following tasks:
+
+Create a scatterplot for the dataset.
+Calculate the mean and print it.
+Calculate the standard deviation and print it.
+
