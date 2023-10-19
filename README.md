@@ -11,6 +11,6 @@ My second project: Completed 17 JAN 2023
 
 [deepnote](https://deepnote.com/workspace/uni-b780-ef93fdef-c706-47b3-b054-4b4a1e6442fe/project/2020accidentproject-0a44c7d6-0293-4eea-a531-9a380e39031d/notebook/Notebook%201-13cbad4afc4a4fdeb8c4561f203885d3)
 
-My third project: Complteted 2 FEB 2023
+My third project: Completed 2 FEB 2023
 
 [Git](https://github.com/KohtaSchultz/Diamond-Price-Preditction-Project)
